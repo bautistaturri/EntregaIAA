@@ -1,3 +1,5 @@
+![Portada](foto.png)
+
 # Datos de Abalones
 
 ## Resumen
