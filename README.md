@@ -64,14 +64,6 @@ Predecir la edad de los abalones a partir de mediciones físicas puede ser un de
 
 No hay valores faltantes en el dataset.
 
-## Uso
-
-Para utilizar este dataset en tu proyecto, puedes descargar el archivo y cargarlo en tu herramienta de análisis de datos o aprendizaje automático preferida.
-
-## Licencia
-
-Especifica la licencia para tus datos si es aplicable.
-
 ## Contacto
 
 Para más información, contacta a:
